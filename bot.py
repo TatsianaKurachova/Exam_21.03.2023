@@ -4,7 +4,6 @@ import random
 import datetime
 import sqlite3 
 import csv
-import db
 from bs4 import BeautifulSoup as bs
 from dotenv import load_dotenv, dotenv_values
 
